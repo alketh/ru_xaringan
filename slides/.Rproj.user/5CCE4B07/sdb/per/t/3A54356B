@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : ".Rproj.user\n.Rhistory\n.RData\n.Ruserdata\n",
+    "created" : 1512038664461.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "369326322",
+    "id" : "3A54356B",
+    "lastKnownWriteTime" : 1512038582,
+    "last_content_update" : 1512038582,
+    "path" : "C:/phd/ru_xaringan/.gitignore",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "gitignore"
+}
