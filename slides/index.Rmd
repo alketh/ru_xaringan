@@ -5,13 +5,16 @@ author: "Joseph V. Casillas"
 date: "Rutgers University </br> `r Sys.Date()`"
 output:
   xaringan::moon_reader:
-    lib_dir: slides/libs
+    lib_dir: libs
     css: ["http://www.jvcasillas.com/ru_xaringan/css/rutgers.css", "http://www.jvcasillas.com/ru_xaringan/css/rutgers-fonts.css"]
     nature:
+      beforeInit: ["http://www.jvcasillas.com/ru_xaringan/js/ru_xaringan.js"]
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
       ratio: "16:9"
+    includes:
+      in_header: "./libs/partials/header.html"
 ---
 
 ```{r setup, include=FALSE}
