@@ -38,7 +38,7 @@ a, a > code {
   line-height: 1.0em;
 }
 
-/* Two-column layout (slightly wider for aspect ration) */
+/* Two-column layout (slightly wider for aspect ratio) */
 .left-column {
   color: #777;
   width: 25%;
@@ -74,6 +74,7 @@ a, a > code {
 img, video, iframe {
   max-width: 100%;
 }
+
 
 blockquote {
   display: block;
